@@ -65,7 +65,7 @@ int main()
             printf("Passo Cavalo: %d para cima, %d para direita\n", i, j);
         }
     }
-    printf(\n");
+    printf("\n");
 
     return 0;
 }
